@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 3, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Megan Mulhall)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we had to edit the photo javascript code so that it was seen in the html doc)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (DOM is used to access documents)
+2. (DHTML is a combination of HTML & DOM)
+3. (Editing the js makes the webpage interactive)
